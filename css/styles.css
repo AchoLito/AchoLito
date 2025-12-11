@@ -10987,7 +10987,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: var(--bs-darkest-golden); /*color de la zona en la que estamos al pasar el ratón por encima*/
+    background: #2C1434; /*color de la zona en la que estamos al pasar el ratón por encima*/
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
